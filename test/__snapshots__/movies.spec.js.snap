@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`movies add 1`] = `
+Array [
+  Object {
+    "rate": null,
+    "title": "God Father",
+  },
+  Object {
+    "rate": null,
+    "title": "Batman",
+  },
+]
+`;
+
+exports[`movies rate 1`] = `
+Array [
+  Object {
+    "rate": 5,
+    "title": "God Father",
+  },
+]
+`;
